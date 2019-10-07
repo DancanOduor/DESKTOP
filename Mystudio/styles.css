@@ -1,0 +1,159 @@
+.jumbotron {
+  
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  height: 10%;
+}
+body {
+  background-color: black;
+}
+h1{
+    color: white;
+    font-size: 30px;
+    
+}
+h2 {
+  text-align: center
+  /* margin-top: 100px; */
+}
+.two{
+    margin-top: 50%x;
+}
+.pot{
+    /* background-image: url(https://t3.ftcdn.net/jpg/02/61/69/24/240_F_261692428_1AUOOrxwSmL4DvSH82iyQFAgCW92vm6m.jpg); */
+    background-repeat: no-repeat; 
+    background-size: cover;  
+color: white;
+height: 50%;
+width: 100%;
+}
+.centered H1 {
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color:white;
+    padding-bottom: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  .container {
+    color:white;
+    padding-bottom: 50px;
+    font-style: italic;
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 100;
+  }
+
+  .responsive{
+      height:auto;
+      width:100%;
+  }
+  
+  .banner{
+      padding:0px;
+  }
+
+
+
+    body {
+    font-family: Arial;
+    margin: 0;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  img {
+    vertical-align: middle;
+  }
+  
+  
+  .cont {
+    position: relative;
+    width: 100%;
+  
+  }
+  
+  
+  .mySlides {
+    display: none;
+  }
+  
+  
+  .cursor {
+    cursor: pointer;
+  }
+  
+  
+  .prev,
+  .next {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+  
+  
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  
+  .prev:hover,
+  .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  
+  
+  .numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+  
+  
+  .caption-container {
+    text-align: center;
+    background-color: #222;
+    padding: 2px 16px;
+    color: white;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .column {
+    float: left;
+    width: 16.66%;
+  }
+  
+  
+  .demo {
+    opacity: 0.6;
+  }
+  
+  .active,
+  .demo:hover {
+    opacity: 1;
+  }
+  

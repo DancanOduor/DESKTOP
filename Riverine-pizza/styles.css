@@ -1,0 +1,22 @@
+.row{
+    
+}
+h1{
+    font-family: 'Roboto Mono', monospace;
+}
+.container-fluid{
+
+}
+.pad{
+    padding-top: 40%;
+}
+.side{
+    padding-top: 20%;
+}
+h1{
+    text-align: center;
+}
+.dome{
+    background-color: rebeccapurple;
+    height: 80vh;
+}
